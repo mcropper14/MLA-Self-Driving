@@ -196,3 +196,6 @@ if __name__ == "__main__":
 
     train_model(model, train_loader, criterion, optimizer)
     evaluate_model(model, test_loader)
+
+
+    #ahhh
