@@ -9,7 +9,7 @@ With CULANE dataset: [https://xingangpan.github.io/projects/CULane.html]
 
 OG paper from: [https://arxiv.org/abs/1712.06080]
 
-# 🚗 Lane Detection with Multi-Head Latent Attention (MLA)
+# Lane Detection with Multi-Head Latent Attention (MLA)
 
 This project implements a lane detection neural network using a ResNet18 backbone combined with a custom Multi-Query Latent Attention (MLA) mechanism. The model takes in road images and predicts multiple lane points in normalized coordinates.
 
