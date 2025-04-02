@@ -12,6 +12,7 @@ OG paper from: [https://arxiv.org/abs/1712.06080]
 # Lane Detection with Multi-Head Latent Attention (MLA)
 
 This project implements a lane detection neural network using a ResNet18 backbone combined with a custom Multi-Query Latent Attention (MLA) mechanism. The model takes in road images and predicts multiple lane points in normalized coordinates.
+I wanted to utilize MLA for something other than NLP. Latent vectors may be good for future feature fusion. 
 
 ---
 
@@ -60,7 +61,7 @@ The main model consists of:
 
 ---
 
-## ⚙️ Training
+## Training
 
 ### Training Function
 
